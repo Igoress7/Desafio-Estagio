@@ -1,0 +1,5 @@
+O item número 3 foi feito em Python, para ele funcionar deve ter um arquivo
+txt chamado 'banco.txt'. Este arquivo já se encontra na pasta 'Codigo' e
+possui um exemplo. Ao rodar o código, ele irá dar duas opções ao usuário,
+solicitando que preencha as devidas informações. Com isso, ele irá
+alterar, ler e retornar feedback sobre as solicitações feitas ao banco.
